@@ -8,6 +8,10 @@ Si teneís dudas al realizar una mision, preguntar en el [canal de discord de Ak
 
 ### Mision 1
 
+En esta mision vaís a aprender a utilizar git y vaís a crear vuestra primera PullRequest.
+
+<details>
+  <summary> Instrucciones</summary>
 1. Instalar git desde [aquí](https://git-scm.com/ "aquí").
 1. Leer [esta](https://git-scm.com/docs/git-clone "esta") página.
 1. Ahora deberías saber clonar este repositorio en tu pc. Adelante, clonalo.
@@ -26,3 +30,4 @@ El nombre de la rama debería ser algo así: `Pedro-mision1` si tu nombre de git
 1. Ahora sabes **pushear**. Tienes que pushear los cambios que has hecho en tu rama a **GitHub**. Introduce el comando `git push`.
 1. Si has hecho todo bien hasta este punto, ahora tus cambios estarán en github. Solo queda crear una PullRequest desde la página web de GitHub. Lee [aquí](https://github.com/omegaup/omegaup/wiki/C%C3%B3mo-Hacer-un-Pull-Request#subir-tus-cambios-y-hacer-pull-request "aquí") si no sabes cómo.
 16. Has completado la mision 1. Ahora pídele a alguien del equipo [Master](https://github.com/orgs/AkariWorksDev/teams/master "Master") de Akari que te lo corrija.
+</details>
