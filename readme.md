@@ -12,6 +12,7 @@ En esta mision vaís a aprender a utilizar git y vaís a crear vuestra primera P
 
 <details>
   <summary> Instrucciones</summary>
+
 1. Instalar git desde [aquí](https://git-scm.com/ "aquí").
 1. Leer [esta](https://git-scm.com/docs/git-clone "esta") página.
 1. Ahora deberías saber clonar este repositorio en tu pc. Adelante, clonalo.
