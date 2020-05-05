@@ -26,7 +26,7 @@ Este comando no devuelve nada, crealo con tu nombre, por ejemplo **Borja-mision1
 1. `git status`
 Debería decirte **On branch TUNOMBRE-mision1**
 1. En la raíz, es decir, en la carpeta principal, crea una carpeta con el nombre de tu usuario de git. Dentro crea un archivo txt con algo escrito.
-1. `git add .`
+1. `git add .` incluyendo el punto.
 1. `git commit -m "Descripción corta de qué has hecho"`. 
 1. `git push`
 1. Ahora crea la pull request y pide que te lo corrijan.
@@ -56,7 +56,7 @@ En esta mision vaís a aprender html básico
 
 1. `git pull`
 2. `git status`
-Debería decirte **On branch master**
+Debería decirte **On branch master** Si no, haz `git checkout master` y luego haz `git pull` de nuevo
 3. `git branch TUNOMBRE-mision2`
 4. `git checkout TUNOMBRE-mision2`
 5. `git status`
@@ -100,7 +100,7 @@ Debería decirte **On branch TUNOMBRE-mision2**
   - title
   - !--
 
-10. Cuando creas que tu página web está bien formada y contiene todos los tags anteriores ejecuta el comando `git add .`
+10. Cuando creas que tu página web está bien formada y contiene todos los tags anteriores ejecuta el comando `git add .` incluyendo el punto.
 11. `git commit -m "Descripción corta de qué has hecho"`. 
 
 Dentro 
