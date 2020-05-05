@@ -13,7 +13,7 @@ En esta mision vaís a aprender a utilizar git y vaís a crear vuestra primera P
 <details>
   <summary> Instrucciones</summary>
 
-####Simplificado en comandos
+#### Simplificado en comandos
 
 1. Instalar git desde [aquí](https://git-scm.com/ "aquí").
 1. `git clone https://github.com/AkariWorksDev/WebLearn.git´
@@ -22,7 +22,7 @@ En esta mision vaís a aprender a utilizar git y vaís a crear vuestra primera P
 1. `git commit -m "Descripción corta de qué has hecho"`. 
 1. `git push`
 
-####Explicación extensa
+#### Explicación extensa
 
 1. Instalar git desde [aquí](https://git-scm.com/ "aquí").
 1. En [esta](https://git-scm.com/docs/git-clone "esta") página tienes información sobre el comando git clone.
