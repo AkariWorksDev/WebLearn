@@ -26,6 +26,7 @@ Este comando no devuelve nada, crealo con tu nombre, por ejemplo **Borja-mision1
 1. `git add .`
 1. `git commit -m "Descripción corta de qué has hecho"`. 
 1. `git push`
+1. Ahora crea la pull request y pide que te lo corrijan.
 
 #### Más información
 
