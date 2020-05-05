@@ -16,7 +16,7 @@ En esta mision vaís a aprender a utilizar git y vaís a crear vuestra primera P
 #### Simplificado en comandos
 
 1. Instalar git desde [aquí](https://git-scm.com/ "aquí").
-1. `git clone https://github.com/AkariWorksDev/WebLearn.git´
+1. `git clone https://github.com/AkariWorksDev/WebLearn.git`
 1. En la raíz, es decir, en la carpeta principal, crea una carpeta con el nombre de tu usuario de git. Dentro crea un archivo txt don algo escrito.
 1. `git add .`
 1. `git commit -m "Descripción corta de qué has hecho"`. 
