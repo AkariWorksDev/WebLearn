@@ -102,8 +102,6 @@ Debería decirte **On branch TUNOMBRE-mision2**
 
 10. Cuando creas que tu página web está bien formada y contiene todos los tags anteriores ejecuta el comando `git add .` incluyendo el punto.
 11. `git commit -m "Descripción corta de qué has hecho"`. 
-
-Dentro 
 12. `git add .`
 13. `git commit -m "Descripción corta de qué has hecho"`. 
 14. `git push`
